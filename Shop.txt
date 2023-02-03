@@ -1,0 +1,12 @@
+Product Sr.No.: 1
+Product Name: Milk
+Product Price: 120
+Expiry date: 6-5-2022
+
+--------------------------------------------
+Product Sr.No.: 2
+Product Name: Bread
+Product Price: 120
+Expiry date: 5-6-2022
+
+--------------------------------------------
