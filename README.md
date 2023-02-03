@@ -1,2 +1,3 @@
 # Super-Market-Billing-System
-This project has some issue as its is not completed, but i am renewing it and adding more functions.
+This is a fully working project but there are some issues in it, I am working on it and soon be will update this.
+Also a new version of this project with complete data structures and OOP implemented is in progress.
